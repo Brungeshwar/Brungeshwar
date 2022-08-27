@@ -25,7 +25,7 @@
 
 - ⚡ Fun fact:
 	-  😒 I can sleep whole day.
-	-  😁 Sometimes for me easy DSA problems takes hours to solve and hard problems in minutes.
+	-  😁 Sometimes for me, easy DSA problems take hours to solve, and hard problems in minutes.
 
 
 
